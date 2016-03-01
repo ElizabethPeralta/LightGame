@@ -5,8 +5,14 @@ public class trigger01 : MonoBehaviour {
 
 		void OnTriggerEnter(Collider other) {
 
-		   gameObject.SetActive (true);
-			gameObject.tag = "Platform"; 
+		if (visibileList == null) {
+			visibleList = GameObject.FindGameObjectsWithTag ("Platform");
+
+		}
+
+				foreach (GameObject visible in visibleList) {
+					visible.GetComponent<MeshRenderer>().enabled=true;
+
 
 
 
@@ -14,4 +20,5 @@ public class trigger01 : MonoBehaviour {
 	}
 	
 
+}
 }
