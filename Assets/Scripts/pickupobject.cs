@@ -20,9 +20,9 @@ public class pickupobject : MonoBehaviour {
 		RaycastHit rayHitInfo = new RaycastHit(); // generate var to hold hit data
 		Debug.DrawRay( ray.origin, ray.direction * 4f, Color.yellow);
 		// actually shoot the raycast
-		if ( Physics.Raycast( ray, out rayHitInfo, 4f ) ) {
+		if (pickup==null && Physics.Raycast( ray, out rayHitInfo, 4f ) ) {
 
-			if (Input.GetMouseButtonUp (0)) {
+			if (Input.GetMouseButtonDown (0)) {
 
 				if (rayHitInfo.collider.tag == "Coin") {
 
@@ -40,9 +40,7 @@ public class pickupobject : MonoBehaviour {
 			//            print("mouse button released");
 			//            
 			//            }
-		}
-
-		if (pickup != null) {
+		} else if (pickup != null) {
 			pickup.position = transform.position + transform.forward * 2f;
 			//put drop code here
 			if (Input.GetMouseButtonDown (0)) {
