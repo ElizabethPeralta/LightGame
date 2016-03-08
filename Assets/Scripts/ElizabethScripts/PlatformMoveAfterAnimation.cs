@@ -1,4 +1,4 @@
-﻿//using UnityEngine;
+﻿////using UnityEngine;
 //using System.Collections;
 //
 //public class PlatformTest : MonoBehaviour {
@@ -8,12 +8,12 @@
 //
 //	// Use this for initialization
 //	void Start () {
-//	
-//		myAnimator.SetBool ("MakeBridge", false);
+//
+//		AnimatoConditionMode.If ("MakeBridge", false);
 //
 //
 //	}
-//	
+//
 //	// Update is called once per frame
 //	void Update () {
 //
@@ -25,5 +25,5 @@
 //		}
 //	}
 //
-//		
+//
 //}
