@@ -16,5 +16,17 @@ public class Items  {
 	    Portal
 	}
 
+	public Items (string name, int id, string description, int power, int speed, ItemType type )
+
+	{
+		itemName = name;
+		itemID = id;
+		itemDescription = description;
+		itemIcon = Resources.Load<Texture2D> ("Item Icons/" + name);
+		itemPower = power;
+		itemSpeed = speed;
+		itemType = type; 
+	}
+
 
 }
