@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 35d2eba5020da4e10a8053fafda7a0f3
-timeCreated: 1458001785
+guid: fdc38dca63b3d420197db5a64f35f309
+timeCreated: 1458024258
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: floor.ceiling
+    4300000: staircase
   materials:
     importMaterials: 1
     materialName: 0

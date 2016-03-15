@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 86f27f5ffd42c47aa90d2b22613a68a8
-timeCreated: 1458001785
+guid: 8800d6874f97b4f6ab9392d4724e60ef
+timeCreated: 1458024256
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: wall.corner
+    4300000: column.room
   materials:
     importMaterials: 1
     materialName: 0

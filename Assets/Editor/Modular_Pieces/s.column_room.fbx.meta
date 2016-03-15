@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: f4a31ccadbf6849dd8532192d853882e
-timeCreated: 1458001786
+guid: 6dcb92352906847088ad3572596e9a5c
+timeCreated: 1458024256
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: staircase
+    4300000: s.column.room
   materials:
     importMaterials: 1
     materialName: 0

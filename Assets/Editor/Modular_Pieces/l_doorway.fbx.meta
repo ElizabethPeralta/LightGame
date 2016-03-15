@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: db5f3668503344d8fbf88d612a4f61ba
-timeCreated: 1457998070
+guid: 18c3bceea52aa43e79bd308f87b56d1c
+timeCreated: 1458024255
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cube.001
+    4300000: l.doorway
   materials:
     importMaterials: 1
     materialName: 0

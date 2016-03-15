@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 0c7dd443df21741e18bbad1b6bbc54c2
-timeCreated: 1458001785
+guid: 60344df264a55409ca83e03d0686cf89
+timeCreated: 1458024255
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: single.wall
+    4300000: l.2walls
   materials:
     importMaterials: 1
     materialName: 0
