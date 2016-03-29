@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 8563e7a82323c4ac68c26b909ae0b304
+timeCreated: 1458025350
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: center_column
+    100002: column_full
+    100004: column_room
+    100006: column_side
+    100008: Cube
+    100010: floor_ceiling
+    100012: l_2walls
+    100014: //RootNode
+    100016: l_doorway
+    100018: l_singlewall
+    100020: s_column_center
+    100022: s_column_full
+    100024: s_column_room
+    100026: s_column_side.001
+    100028: single_wall
+    100030: staircase
+    100032: wall_corner
+    400000: center_column
+    400002: column_full
+    400004: column_room
+    400006: column_side
+    400008: Cube
+    400010: floor_ceiling
+    400012: l_2walls
+    400014: //RootNode
+    400016: l_doorway
+    400018: l_singlewall
+    400020: s_column_center
+    400022: s_column_full
+    400024: s_column_room
+    400026: s_column_side.001
+    400028: single_wall
+    400030: staircase
+    400032: wall_corner
+    2300000: center_column
+    2300002: column_full
+    2300004: column_room
+    2300006: column_side
+    2300008: Cube
+    2300010: floor_ceiling
+    2300012: l_2walls
+    2300014: l_doorway
+    2300016: l_singlewall
+    2300018: s_column_center
+    2300020: s_column_full
+    2300022: s_column_room
+    2300024: s_column_side.001
+    2300026: single_wall
+    2300028: staircase
+    2300030: wall_corner
+    3300000: center_column
+    3300002: column_full
+    3300004: column_room
+    3300006: column_side
+    3300008: Cube
+    3300010: floor_ceiling
+    3300012: l_2walls
+    3300014: l_doorway
+    3300016: l_singlewall
+    3300018: s_column_center
+    3300020: s_column_full
+    3300022: s_column_room
+    3300024: s_column_side.001
+    3300026: single_wall
+    3300028: staircase
+    3300030: wall_corner
+    4300000: s_column_side.001
+    4300002: l_doorway
+    4300004: l_singlewall
+    4300006: l_2walls
+    4300008: s_column_room
+    4300010: s_column_center
+    4300012: s_column_full
+    4300014: column_room
+    4300016: single_wall
+    4300018: staircase
+    4300020: wall_corner
+    4300022: floor_ceiling
+    4300024: column_side
+    4300026: column_full
+    4300028: center_column
+    4300030: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
