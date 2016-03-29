@@ -1,6 +1,6 @@
-﻿using UnityEngine;
-using System.Collections;
-//
+﻿//using UnityEngine;
+//using System.Collections;
+////
 //public class ThrowPortal : MonoBehaviour {
 //	 
 //	public GameObject leftPortal;
@@ -30,5 +30,4 @@ using System.Collections;
 //			Ray ray = camera.ScreenPointToRay(new Vactor3()
 //	}
 //}
-//
 //
