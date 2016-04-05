@@ -15,7 +15,7 @@ public class platform_move02 : MonoBehaviour {
 	public float number = 0.3f;
 
 	void Update () {
-		floatY = transform.position;
+		//floatY = transform.position;
 		floatY.y = (Mathf.Sin(Time.time * 0.4f) * amplitude) + 1.5f;
 		transform.position = floatY;
 	}

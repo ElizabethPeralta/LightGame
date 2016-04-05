@@ -11,7 +11,7 @@ public class platform_move05 : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		transform.position = new Vector3(transform.position.x, transform.position.y, Mathf.PingPong(Time.time,10.0f));
+		transform.position = new Vector3(transform.position.x,(Mathf.PingPong(Time.time,1.0f)), transform.position.z);
 	
 	}
 }
