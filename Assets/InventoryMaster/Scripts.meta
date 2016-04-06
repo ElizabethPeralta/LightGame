@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/InventoryMaster/Scripts.meta
 guid: 7e30460f937224cb69fbe4f63dc0042b
 folderAsset: yes
 timeCreated: 1457575241
+=======
+guid: 9f7279e2e11fb4ad8af1f67d3eaa1df4
+folderAsset: yes
+timeCreated: 1459824736
+>>>>>>> c7f0c50840f01c253b5e134ed52d12101e955a32:Assets/InventoryMaster/Scripts.meta
 licenseType: Free
 DefaultImporter:
   userData: 
