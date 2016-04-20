@@ -45,8 +45,7 @@ Shader "Toon/Basic Outline" {
 			Name "OUTLINE"
 			Tags { "LightMode" = "Always" }
 			Cull Front
-			ZWrite Off
-			ZTest Always
+			ZWrite On
 			ColorMask RGB
 			Blend SrcAlpha OneMinusSrcAlpha
 

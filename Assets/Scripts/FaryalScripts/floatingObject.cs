@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class object_float : MonoBehaviour {
+public class floatingObject : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
