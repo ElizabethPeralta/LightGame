@@ -1,15 +1,22 @@
 fileFormatVersion: 2
-guid: 99a4b367db2a945689f5c463cbf1c295
-timeCreated: 1460006580
+guid: 62e046c1443b7413c82cd73b440204f1
+timeCreated: 1460571113
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: pSphere1
+    100004: pTorus1
     400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: pTorus3
+    400002: pSphere1
+    400004: pTorus1
+    2300000: pSphere1
+    2300002: pTorus1
+    3300000: pSphere1
+    3300002: pTorus1
+    4300000: pTorus1
+    4300002: pSphere1
     9500000: //RootNode
   materials:
     importMaterials: 1

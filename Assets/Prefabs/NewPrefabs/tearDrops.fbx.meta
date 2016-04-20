@@ -1,15 +1,27 @@
 fileFormatVersion: 2
-guid: 0e41955518182476aae2751a2e5fae22
-timeCreated: 1460006580
+guid: 489e3be114e944bb88ac6aebb8a19104
+timeCreated: 1460856607
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: pTorus1
+    100000: pCone1
+    100002: pCone2
+    100004: pCone3
+    100006: //RootNode
+    400000: pCone1
+    400002: pCone2
+    400004: pCone3
+    400006: //RootNode
+    2300000: pCone1
+    2300002: pCone2
+    2300004: pCone3
+    3300000: pCone1
+    3300002: pCone2
+    3300004: pCone3
+    4300000: pCone1
+    4300002: pCone2
+    4300004: pCone3
     9500000: //RootNode
   materials:
     importMaterials: 1
