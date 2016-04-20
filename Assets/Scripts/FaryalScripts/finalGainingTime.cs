@@ -9,7 +9,7 @@ public class finalGainingTime : MonoBehaviour {
 
 		if (col.tag == "Player")
 		{
-			col.GetComponent<timerScript> ().timeRemaining += 5f;
+			col.GetComponent<timerScript> ().timeRemaining += 20f;
 			Debug.Log ("should be working");
 
 		}
