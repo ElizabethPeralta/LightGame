@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class timerScript : MonoBehaviour {
 	Vector3 startLocation; 
 	public Image timerImage;
-	public float timeRemaining = 60.0f;
+	public float timeRemaining = 30.0f;
 
 
 	// Use this for initialization
@@ -21,12 +21,12 @@ public class timerScript : MonoBehaviour {
 		//resetting timer
 
 		if (timeRemaining <= 0f) {
-			timeRemaining = 60f;
+			timeRemaining = 30f;
 			transform.position = startLocation;
 
 		}
 
-		timerImage.fillAmount = timeRemaining / 60.0f;
+		timerImage.fillAmount = timeRemaining / 30.0f;
 
 	}
 }
