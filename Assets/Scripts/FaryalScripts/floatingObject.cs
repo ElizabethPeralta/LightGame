@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class floatingObject : MonoBehaviour {
+public class SlowFloatingObject : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
