@@ -12,6 +12,7 @@ public class finalGainingTime : MonoBehaviour {
 			col.GetComponent<timerScript> ().timeRemaining += 40f;
 			Debug.Log ("should be working");
 
+			GetComponent<AudioSource> ().Play ();
 		}
 
 

@@ -11,5 +11,5 @@ function Start () {
 function OnTriggerEnter () {
 
  anim.enabled = true;
- Destroy(gameObject);
+ Destroy(gameObject,10f);
 }
