@@ -21,7 +21,7 @@ public class timerScript : MonoBehaviour {
 		//resetting timer
 
 		if (timeRemaining <= 0f) {
-			timeRemaining = 30f;
+			timeRemaining = 30.0f;
 			transform.position = startLocation;
 
 		}
