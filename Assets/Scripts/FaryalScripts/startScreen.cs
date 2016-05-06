@@ -10,7 +10,7 @@ public class startScreen : MonoBehaviour {
 
 	public void StartLevel()
 	{
-		SceneManager.LoadScene ("fh_terrain02");
+		SceneManager.LoadScene ("nc_terrain_fh 1");
 
 	}
 }
