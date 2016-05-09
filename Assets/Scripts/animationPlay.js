@@ -1,15 +1,16 @@
-﻿#pragma strict
+﻿//#pragma strict
 
 
-var anim : Animator;
+//var anim : Animator;
 		
 
-function Start () {
- anim.enabled = false;
-}
+//function Start () {
+ //anim.enabled = false;
+//}
 
-function OnTriggerEnter () {
+//function OnTriggerEnter () {
 
- anim.enabled = true;
- Destroy(gameObject,1.5f);
-}
+ //anim.enabled = true;
+// anim.g
+// Destroy(gameObject,1.5f);
+//}
