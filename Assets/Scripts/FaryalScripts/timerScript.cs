@@ -11,7 +11,8 @@ public class timerScript : MonoBehaviour {
 
 		ScreenFade.Fade (Color.white, 0f, 1f, 2f, 0f, true);
 		yield return new WaitForSeconds (2f);
-		transform.position = startLocation;
+	//	transform.position = startLocation;
+		Application.LoadLevel(Application.loadedLevel);
 		ScreenFade.Fade (Color.white, 1f, 0f, 2f, 0f, false);
 
 
