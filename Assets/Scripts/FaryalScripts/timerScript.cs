@@ -23,7 +23,8 @@ public class timerScript : MonoBehaviour {
 		if (timeRemaining <= 0f) {
 			timeRemaining = 30.0f;
 			transform.position = startLocation;
-
+			ScreenFade.Fade (Color.white, 1f, 0f, 1f, 0f, true);
+		
 		}
 
 		timerImage.fillAmount = timeRemaining / 30.0f;
