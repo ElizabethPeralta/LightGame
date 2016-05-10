@@ -10,6 +10,9 @@ public class startScreen : MonoBehaviour {
 
 	public void StartLevel()
 	{
+
+		//float fadeTime = GameObject.Find ("NewPlayerWithPayOffAgain").GetComponent<Fading> ().BeginFade (1);
+		//yield return new WaitForSeconds (fadeTime);
 		SceneManager.LoadScene ("nc_terrain_fh 1");
 
 	}
