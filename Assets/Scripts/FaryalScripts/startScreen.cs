@@ -13,7 +13,7 @@ public class startScreen : MonoBehaviour {
 
 		//float fadeTime = GameObject.Find ("NewPlayerWithPayOffAgain").GetComponent<Fading> ().BeginFade (1);
 		//yield return new WaitForSeconds (fadeTime);
-		SceneManager.LoadScene ("Fragment_Test");
+		SceneManager.LoadScene ("Fragment_Final");
 
 	}
 }
