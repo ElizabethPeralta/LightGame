@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class finalGainingTime : MonoBehaviour {
+public class  ambeintSoundTrigger : MonoBehaviour {
 
 	void OnTriggerEnter( Collider col) {
 
@@ -9,9 +9,7 @@ public class finalGainingTime : MonoBehaviour {
 
 		if (col.tag == "Player")
 		{
-			col.GetComponent<timerScript> ().timeRemaining += 40f;
-			Debug.Log ("should be working");
-
+			 
  	 		GetComponent<AudioSource> ().Play ();
 		}
 
