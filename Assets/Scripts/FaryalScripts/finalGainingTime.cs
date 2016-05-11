@@ -9,7 +9,7 @@ public class finalGainingTime : MonoBehaviour {
 
 		if (col.tag == "Player")
 		{
-			col.GetComponent<timerScript> ().timeRemaining += 40f;
+			col.GetComponent<timerScript> ().timeRemaining += 60f;
 			Debug.Log ("should be working");
 
  	 		GetComponent<AudioSource> ().Play ();

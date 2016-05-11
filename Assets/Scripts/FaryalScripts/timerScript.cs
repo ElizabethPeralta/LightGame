@@ -30,12 +30,12 @@ public class timerScript : MonoBehaviour {
 		//resetting timer
 
 		if (timeRemaining <= 0f) {
-			timeRemaining = 30.0f;
+			timeRemaining = 50.0f;
 			transform.position = startLocation;
 			StartCoroutine (fade());
 		}
 
-		timerImage.fillAmount = timeRemaining / 30.0f;
+		timerImage.fillAmount = timeRemaining / 50.0f;
 
 	}
 }
