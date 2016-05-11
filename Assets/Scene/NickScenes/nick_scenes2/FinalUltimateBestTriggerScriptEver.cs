@@ -23,6 +23,8 @@ public class FinalUltimateBestTriggerScriptEver : MonoBehaviour {
 		//anim.enabled = true;
 		//anim.GetComponent <ParticleSystem>().Play();
 			Destroy(transform.parent.parent.gameObject,1.5f);}
+		GetComponent<AudioSource> ().Play ();
+
 	}
 
 	void OnDestroy(){ 
